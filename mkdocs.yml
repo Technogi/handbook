@@ -1,0 +1,11 @@
+site_name: Technogi Handbook
+
+theme:
+  name: material
+  favicon: assets/favicon.png
+
+plugins:
+  - search
+  #- mkpdfs:
+  #    author: Juan Francisco Alvarez Urquijo
+  #    company: Technogi
