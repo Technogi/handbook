@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Technogi/handbook">
-    <img src="https://raw.githubusercontent.com/Technogi/handbook/master/.github/assets/logo.png" width="320" alt="Technogi's Handbook">
+    <img src=".github/assets/logo.png" width="320" alt="Technogi's Handbook">
   </a>
 </p>
 
