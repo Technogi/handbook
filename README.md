@@ -46,7 +46,7 @@ install it with your package manager (check your system's documentation for
 details). That's it, you're done! Skip down to [Getting Started](#getting-started).
 
 If your package manager does not have a recent "MkDocs" package, you can still
-use your package manager to install "Python" and "pip". Then you can use pip to
+use your package manager to install [Python] and [pip]. Then you can use pip to
 [install MkDocs](#installing-mkdocs).
 
 [apt-get]: https://help.ubuntu.com/community/AptGet/Howto
