@@ -186,12 +186,12 @@ you're done.
 ## Contributing
 
 Interested in contributing? 
-Welcome, check the details in this [guide](Contributing.md).
+Welcome, check the details in this [guide](CONTRIBUTING.md).
 
 ---
 ## Local Development
 
-Welcome, please read this [guide](development.md) in order to setup your local environment.
+Welcome, please read this [guide](DEVELOPMENT.md) in order to setup your local environment.
 
 ---
 ## Code of conduct
@@ -200,7 +200,7 @@ Technogi's culture is open, but the contributors to this handbook need to conduc
 
 
 [Amazon S3]: https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html
-[code of conduct]: code-of-conduct.md
+[code of conduct]: CODE_OF_CONDUCT.md
 [get-pip.py]: https://bootstrap.pypa.io/get-pip.py
 [GitHub issues]: https://github.com/Technogi/handbook/issues
 [GitHub project pages]: https://help.github.com/articles/creating-project-pages-manually/

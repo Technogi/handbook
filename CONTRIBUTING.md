@@ -9,7 +9,7 @@ Technogi's culture is open, but the contributors to this handbook need to conduc
 
 ## Local development
 
-Please read this [guide](development.md) in order to setup your local environment.
+Please read this [guide](DEVELOPMENT.md) in order to setup your local environment.
 
 ## Submission context
 
@@ -85,6 +85,6 @@ go ahead.
 After your PR is merged, you can safely delete your branch and pull the changes
 from the main (upstream) repository.
 
-  [4]: development.md#environment-setup
-  [5]: development.md#build-process
-  [code of conduct]: code-of-conduct.md
+  [4]: DEVELOPMENT.md#environment-setup
+  [5]: DEVELOPMENT.md#build-process
+  [code of conduct]: CODE_OF_CONDUCT.md
