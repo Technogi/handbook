@@ -3,6 +3,8 @@ site_name: Technogi Handbook
 theme:
   name: material
   favicon: assets/favicon.png
+  features:
+    - tabs
 
 plugins:
   - search
@@ -13,3 +15,9 @@ plugins:
 markdown_extensions:
   - pymdownx.superfences
   - admonition
+
+nav:
+  - Technogi Handbook: index.md
+  - About:
+      - History: about/history.md
+      #- Founders:
