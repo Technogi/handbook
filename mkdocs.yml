@@ -9,3 +9,7 @@ plugins:
   #- mkpdfs:
   #    author: Juan Francisco Alvarez Urquijo
   #    company: Technogi
+
+markdown_extensions:
+  - pymdownx.superfences
+  - admonition

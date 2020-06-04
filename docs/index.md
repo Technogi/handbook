@@ -1,17 +1,13 @@
 # Welcome to Technogi's Handbook
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![Technogi Handbook Logo](assets/images/logo.png)
 
-## Commands
+## Intro
+Technogi's culture documentation.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+!!! Note ""
+    ```none
+    "You never change things by fighting the existing reality. To change something,
+    build a new model that makes the existing model obsolete."
+    ```
+    <pre>                                                R. Buckminster Fuller</pre>
